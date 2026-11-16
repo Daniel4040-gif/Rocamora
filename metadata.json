@@ -1,0 +1,6 @@
+{
+  "name": "Taller Mecánico — Sistema de Gestión",
+  "description": "Sistema web profesional para gestionar turnos, clientes, vehículos, servicios e historial de trabajos de un taller mecánico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
